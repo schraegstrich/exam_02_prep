@@ -22,16 +22,16 @@ Level 2
   + ft_strdup
   //- ft_strpbrk
   + ft_strrev
-  - ft_strspn
-  - inter
-  - is_power_of_2
-  - last_word
-  - max
+  + ft_strspn
+  + inter
+  + is_power_of_2
+  + last_word
+  + max
   ! print_bits
   - reverse_bits
   + snake_to_camel
   ! swap_bits
-  - union
+  + union
   - wdmatch
 
 Level 3
