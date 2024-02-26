@@ -57,17 +57,17 @@ int	*ft_range(int start, int end)
 }
 
 
-int main (void)
-{
-	int	min = 0;
-	int max = 0;
-	int array_size = ft_array_size(min, max);
-	int i = 0;
-	int *array = ft_range(min, max);
-	while (i < array_size)
-	{
-		printf("%d", array[i]);
-		i++;
-	}
-	return (0);
-}
+// int main (void)
+// {
+// 	int	min = 0;
+// 	int max = 0;
+// 	int array_size = ft_array_size(min, max);
+// 	int i = 0;
+// 	int *array = ft_range(min, max);
+// 	while (i < array_size)
+// 	{
+// 		printf("%d", array[i]);
+// 		i++;
+// 	}
+// 	return (0);
+// }

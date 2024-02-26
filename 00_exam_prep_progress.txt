@@ -27,19 +27,19 @@ Level 2
   + is_power_of_2
   + last_word
   + max
-  ! print_bits
-  - reverse_bits
+  + print_bits
+  + reverse_bits
   + snake_to_camel
-  ! swap_bits
+  + swap_bits
   + union
-  - wdmatch
+  + wdmatch
 
 Level 3
   + add_prime_sum
-  - epur_str
-  - expand_str
+  + epur_str
+  + expand_str
   - ft_atoi_base
-  - ft_list_size
+  + ft_list_size
   + ft_range
   + ft_rrange
   - hidenp
@@ -47,19 +47,19 @@ Level 3
   - paramsum
   - pgcd
   + print_hex
-  - rstr_capitalizer
-  - str_capitalizer
+  + rstr_capitalizer
+  + str_capitalizer
   - tab_mult 
 
 Level 4
   - flood_fill
-  code again_+ fprime
+  + fprime
   + ft_itoa
   - ft_list_foreach
   - ft_list_remove_if
-  - ft_split
-  - rev_wstr
-  - rostring
+  + ft_split
+  + rev_wstr
+  + rostring
   - sort_int_tab
   - sort_list
 
